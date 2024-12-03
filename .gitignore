@@ -43,3 +43,12 @@ expo-env.d.ts
 dist/
 archive/
 .vercel
+
+# Editor directories and files
+.vscode/*
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

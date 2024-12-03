@@ -58,6 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, please contact [ikyawthetpaing@gmail.com](mailto:ikyawthetpaing@gmail.com).
+For questions or support, please contact [kani@chitmo.com](mailto:kani@chitmo.com).
 
 Happy Learning with Euolingo! 🌍📚🗣️
